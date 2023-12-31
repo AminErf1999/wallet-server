@@ -1,0 +1,18 @@
+[
+  {
+    "resource_id": "2",
+    "name": "بانک سامان",
+    "current_amount": "795000",
+    "currency": "تومان",
+    "type": "bank",
+    "card_number": "8488744587414719"
+  },
+  {
+    "resource_id": "1",
+    "name": "بانک رسالت",
+    "current_amount": "3615000",
+    "currency": "تومان",
+    "type": "bank",
+    "card_number": "1487746587414785"
+  }
+]

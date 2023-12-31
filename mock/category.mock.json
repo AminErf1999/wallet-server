@@ -1,0 +1,46 @@
+[
+  {
+    "category_id": "5",
+    "name": "خرید",
+    "icon": "{{iconAddress}}",
+    "color": "blue",
+    "sub_categories": []
+  },
+  {
+    "category_id": "4",
+    "name": "اقساط",
+    "icon": "{{iconAddress}}",
+    "color": "red",
+    "sub_categories": []
+  },
+  {
+    "category_id": "3",
+    "name": "ماشین",
+    "icon": "{{iconAddress}}",
+    "color": "purple",
+    "sub_categories": [
+      {
+        "name": "تعمیرات",
+        "icon": "{{iconAddress}}"
+      },
+      {
+        "name": "سوخت",
+        "icon": "{{iconAddress}}"
+      }
+    ]
+  },
+  {
+    "category_id": "2",
+    "name": "غذا و نوشیدنی",
+    "icon": "{{iconAddress}}",
+    "color": "yellow",
+    "sub_categories": []
+  },
+  {
+    "category_id": "1",
+    "name": "دریافتی",
+    "icon": "{{iconAddress}}",
+    "color": "yellow",
+    "sub_categories": []
+  }
+]
